@@ -47,7 +47,7 @@ There other snippets managers for Vim and NeoVim, but UltiSnips is well-establis
 I assume that the Ultisnips plugin has already been properly installed.
 The snippets are stored in a single file called python.snippets.
 I store this file in a folder called my-snippets/Ultisnips.
-You may have to concatenate this file with an existing python.snippets file.
+You may have to concatenate python.snippets with an existing python.snippets file.
 
 ```bash
 cd ~/.vim/my-snippets/Ultisnips
