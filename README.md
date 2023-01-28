@@ -58,7 +58,8 @@ cd ..
 rm -rf cctbxsnips-Ultisnips
 ```
 
-2. **Optional** If you want to use these snippets from Emacs to edit live cells in Jupyter or Colab notebooks, install [GhostText](https://ghosttext.fregante.com/) in your browser and  in Vim .
+2. **Optional** If you want to use these snippets from Vim or NeoVim to edit live cells in Jupyter or Colab notebooks, install [GhostText](https://ghosttext.fregante.com/) in your browser and the [Vim Ghost](https://github.com/raghur/vim-ghost)plugin for Vim. Intall the [nvim-ghost](https://github.com/subnut/nvim-ghost.nvim] plugin for NeoVim).
+
 
 ## Related repositories
 
