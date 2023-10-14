@@ -9,7 +9,7 @@ It provides code for computations with diffraction data and atomic coordinates o
 It has C++ and Python ports.
 It is available in Anaconda in the conda-forge channel as cctbx-base for python3.8 through 3.11 for Windows, macOS, and Linux.
 
-### Blaine's cctbx install protocol
+### Installation
 
 I assume that Anaconda has already been installed. We also create the Jupyter notebook kernel while we are at it. Execute one line at a time: Wait for the execution to finish before executing the next line.
 
