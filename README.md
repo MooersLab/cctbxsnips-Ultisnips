@@ -74,3 +74,17 @@ rm -rf cctbxsnips-Ultisnips
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
+
+  ## Update History
+
+|Version      | Changes                                                                     | Date            |
+|:-----------:|:---------------------------------------------------------------------------:|:---------------:|
+| Version 0.2 |  Fixed typos in README.md. Added Badges and Update table                    | 2024 April 12    |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH P20GM103640 and P30GM145423 (PI: A. West)
