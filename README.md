@@ -1,5 +1,8 @@
-
 # cctbxsnips for the UltiSnips plugin in Vim and NeoVim
+
+![Version](https://img.shields.io/static/v1?label=cctbxsnips-Ultisnips&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 ## CCTBX
 
@@ -29,16 +32,16 @@ Replace the *3.9* or *39* above with whatever version of Python you want to use 
 
 ## UltiSnips
 
-UltiSnips a popular snippet manager for Vim.
-It should work with [NeoVim](https://github.com/SirVer/ultisnips/issues/1505), but UltiSnips is less stable in NeoVim due changes in NeoVim.
-There other snippets managers for Vim and NeoVim, but UltiSnips is well-established.
+UltiSnips is a popular snippet manager for Vim.
+It should work with [NeoVim](https://github.com/SirVer/ultisnips/issues/1505), but due to changes in NeoVim, UltiSnips is less stable there.
+There are other snippets managers for Vim and NeoVim, but UltiSnips is well-established.
 
 
 ## The problems that this repo addresses
 
 1. **Facilitation of code reuse**. The use of code snippets can save time by reusing existing code. The presence of tab stops in code snippets can help ensure that all parameters that need customization to a new problem are considered. Thus, tab stops can reduce subsequent debugging.
 
-2. **Use of Emacs to edit Jupyter and Colab code and markdown cells** The existnig snippet formats for Jupyter and Colab notebooks do not support tab triggers and tab stops: These are standard features of code snippet systems in most text editors. We can overcome these limitations by sending the active code cell to Emacs via the GhostText extension for the browser and the atomic-chrome package for Emacs.
+2. **Use Emacs to edit Jupyter and Colab code and markdown cells** The existing snippet formats for Jupyter and Colab notebooks do not support tab triggers and tab stops, which are standard features of code snippet systems in most text editors. We can overcome these limitations by sending the active code cell to Emacs via the GhostText extension for the browser and the atomic-chrome package for Emacs.
 
 ## Installation
 
@@ -58,7 +61,7 @@ cd ..
 rm -rf cctbxsnips-Ultisnips
 ```
 
-2. **Optional** If you want to use these snippets from Vim or NeoVim to edit live cells in Jupyter or Colab notebooks, install [GhostText](https://ghosttext.fregante.com/) in your browser and the [Vim Ghost](https://github.com/raghur/vim-ghost)plugin for Vim. Intall the [nvim-ghost](https://github.com/subnut/nvim-ghost.nvim] plugin for NeoVim).
+2. **Optional** If you want to use these snippets from Vim or NeoVim to edit live cells in Jupyter or Colab notebooks, install [GhostText](https://ghosttext.fregante.com/) in your browser and the [Vim Ghost](https://github.com/raghur/vim-ghost)plugin for Vim. Install the [nvim-ghost](https://github.com/subnut/nvim-ghost.nvim] plugin for NeoVim).
 
 
 ## Related repositories
